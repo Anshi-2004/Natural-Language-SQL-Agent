@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+# API credentials and local certificates
+*.pem
+*.key
+
+# Python and Jupyter-generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
